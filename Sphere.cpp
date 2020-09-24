@@ -42,4 +42,9 @@ std::string Sphere::reqVolumeFormate() const
 	return std::to_string(this->volumeSphere());
 }
 
+void Sphere::experienceBizarre() const
+{
+	std::cout << "Ceci est une expérience bizarre." << std::endl;
+}
+
 

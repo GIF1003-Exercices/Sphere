@@ -22,6 +22,7 @@ public:
 	double reqRayon() const;
 	double volumeSphere() const;
 	std::string reqVolumeFormate() const;
+	void experienceBizarre() const;
 
 private:
 

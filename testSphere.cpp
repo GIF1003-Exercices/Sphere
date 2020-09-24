@@ -38,7 +38,7 @@ int main()
 	std::cout << "Volume : " << sphereRayon3.volumeSphere() << std::endl;
 	std::cout << "Volume Formate : " << sphereRayon3.reqVolumeFormate() << std::endl;
 
-	Sphere sphereErreur(-1);
+	sphereRayon1.experienceBizarre();
 
 }
 
